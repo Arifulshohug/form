@@ -1,0 +1,40 @@
+/*
+Form
+Author: Ariful Islam Shohag
+Email: shohagarif007@gmail.com
+*/
+.header_wrapper {
+    background: #80ccff;
+    color: white;
+    
+}
+.btn_1 {
+    background: transparent;
+    color: white;
+    padding: 1px 17px;
+}
+
+.form_wrapper {
+    background: #b3ecff;
+    height: 400px;
+    padding-top: 35px;
+}
+.pass {
+    margin-left: 32px;
+}
+.btn {
+    background: green;
+    color: white;
+    padding: 10px 28px;
+    font-size: 20px;
+}
+.icon {
+    color: #3B5998;
+   
+}
+.header_left {
+    padding-left: 115px;
+}
+.header_right {
+    margin-top: 11px;
+}
